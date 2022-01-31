@@ -6,7 +6,7 @@ A collection of Jupyter notebooks with examples of querying different PID provid
 Currently included connections:
 * organization-organization
   * input: ROR
-  * output: hierarchy of sub-organizations starting at given organization
+  * output: hierarchy of sub-organizations starting at given organization, each identified by their ROR
   * data sources: ROR
 * organization-people
   * input: ROR
