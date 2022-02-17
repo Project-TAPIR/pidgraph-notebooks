@@ -1,0 +1,4 @@
+requests==2.27.1
+anytree==2.8.0
+python-benedict==0.24.3
+habanero==1.0.0
