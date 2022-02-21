@@ -24,7 +24,7 @@ Please navigate into the respective folder to see the list of available notebook
 While GitHub renders Jupyter notebooks as static HTML files (not executable), 
 you can use this link to launch the notebooks on Binder where you can execute and modify them:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Project-TAPIR/pidgraph-notebooks/main)
-
+![Screenshot Binder](Binder.png)
 ----------------------------
 
 ### Background
