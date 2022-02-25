@@ -11,6 +11,13 @@ authors:
     orcid: "https://orcid.org/0000-0002-8913-9011"
 repository-code: "https://github.com/Project-TAPIR/pidgraph-notebooks"
 license: "BSD-3-Clause"
+identifiers:
+  - description: "This is the collection of archived snapshots of all versions of Project-TAPIR: pidgraph-notebooks"
+    type: doi
+    value: "10.5281/zenodo.6287037"
+  - description: "This is the archived snapshot of version 1.0.0 of Project-TAPIR: pidgraph-notebooks"
+    type: doi
+    value: "10.5281/zenodo.6287038"
 keywords:
   - "FREYA PID Graph"
   - "ORCID"
