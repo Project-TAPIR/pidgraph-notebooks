@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this software in your work, please cite it using the following metadata."
+title: "Project-TAPIR: pidgraph-notebooks"
+abstract: "A collection of Jupyter notebooks with examples of querying different PID providers like ORCID, ROR, Crossref and PID graphs like the FREYA PID Graph and OpenAlex for connected objects."
+type: software
+authors:
+  - given-names: "Sandra"
+    family-names: "Mierz"
+    email: "sandra.mierz@tib.eu"
+    affiliation: "TIB"
+    orcid: "https://orcid.org/0000-0002-8913-9011"
+repository-code: "https://github.com/Project-TAPIR/pidgraph-notebooks"
+license: "BSD-3-Clause"
+keywords:
+  - "FREYA PID Graph"
+  - "ORCID"
+  - "ROR"
+  - "DOI"
+  - "Datacite"
+  - "Crossref"
+  - "OpenAlex"
+references:
+  - authors:
+      - family-names: "Fenner"
+        given-names: "Martin"
+      - family-names: "Garza"
+        given-names: "Kristian"
+    doi: "10.5438/8gb0-v673"
+    repository-code: "https://github.com/datacite/lupo"
+    title: "DataCite Application API"
+    type: software
+    version: "4.5.4"
