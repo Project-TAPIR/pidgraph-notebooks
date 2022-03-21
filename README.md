@@ -35,3 +35,5 @@ you can use this link to launch the notebooks on Binder where you can execute an
 In the joint project [TAPIR](https://projects.tib.eu/tapir/en/) (Partially Automated Persistent Identifier-based Reporting), partially automated procedures for research reporting are being tested in the context of university and non-university research. To this end, the question is being investigated : 
 
 To what extent can the necessary data aggregation be carried out on the basis of openly available research information using persistent identifiers?
+
+*More information in our blog post "[Project TAPIR: Harvesting the power of PIDs](https://blogs.tib.eu/wp/tib/2022/03/01/project-tapir-harvesting-the-power-of-pids/)"*
