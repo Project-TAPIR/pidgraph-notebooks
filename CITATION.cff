@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this software in your work, please cite it using the following metadata."
 title: "Project-TAPIR: pidgraph-notebooks"
-abstract: "A collection of Jupyter notebooks with examples of querying different PID providers like ORCID, ROR, Crossref and PID graphs like the FREYA PID Graph and OpenAlex for connected objects."
+abstract: "A collection of Jupyter notebooks with examples of querying different PID providers like ORCID, ROR, Crossref and PID graphs like the FREYA PID Graph, OpenAlex, OpenAIRE for connected objects."
 type: software
 authors:
   - given-names: "Sandra"
@@ -19,6 +19,9 @@ identifiers:
   - description: "This is the archived snapshot of version 1.0.0 of Project-TAPIR: pidgraph-notebooks"
     type: doi
     value: "10.5281/zenodo.6287038"
+  - description: "This is the archived snapshot of version 1.1.0 of Project-TAPIR: pidgraph-notebooks"
+    type: doi
+    value: "10.5281/zenodo.6373245"
 keywords:
   - "FREYA PID Graph"
   - "ORCID"
@@ -27,6 +30,7 @@ keywords:
   - "Datacite"
   - "Crossref"
   - "OpenAlex"
+  - "OpenAIRE"
 references:
   - authors:
       - family-names: "Fenner"
