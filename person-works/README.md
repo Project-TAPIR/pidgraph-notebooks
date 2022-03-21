@@ -7,3 +7,4 @@ Currently available PID Graphs:
 * [FREYA PID Graph](https://blog.datacite.org/powering-the-pid-graph/)
 * [OpenAlex](https://openalex.org/about)
 * [ORCID](https://orcid.org/)
+* [OpenAIRE](https://www.openaire.eu/)

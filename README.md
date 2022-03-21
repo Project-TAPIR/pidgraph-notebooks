@@ -3,7 +3,7 @@
 [![DOI](https://zenodo.org/badge/447263093.svg)](https://zenodo.org/badge/latestdoi/447263093)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Project-TAPIR/pidgraph-notebooks/main)
 
-A collection of Jupyter notebooks with examples of querying different PID providers like [ORCID](https://orcid.org/), [ROR](https://ror.readme.io/), [Crossref](https://www.crossref.org/) and PID graphs like the [FREYA PID Graph](https://blog.datacite.org/powering-the-pid-graph/) and [OpenAlex](https://openalex.org/about) for connected objects. 
+A collection of Jupyter notebooks with examples of querying different PID providers like [ORCID](https://orcid.org/), [ROR](https://ror.readme.io/), [Crossref](https://www.crossref.org/) and PID graphs like the [FREYA PID Graph](https://blog.datacite.org/powering-the-pid-graph/), [OpenAlex](https://openalex.org/about) and [OpenAIRE](https://www.openaire.eu/) for connected objects. 
 
 Currently included connections:
 * organization-organization
@@ -17,7 +17,11 @@ Currently included connections:
 * person-works
   * input: ORCID
   * output: list of works authored/created by the person, each identified by their DOI
-  * data sources: Crossref, FREYA PID Graph, OpenAlex, ORCID
+  * data sources: Crossref, FREYA PID Graph, OpenAlex, ORCID, OpenAIRE
+* work-projects
+  * input: DOI
+  * output: list of projects the work was produced in, each identified by their OpenAIRE project ID
+  * data sources: OpenAIRE
   
 
 Please navigate into the respective folder to see the list of available notebooks. 
