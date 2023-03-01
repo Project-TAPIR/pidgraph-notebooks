@@ -1,7 +1,7 @@
 # pidgraph-notebooks
 
 [![DOI](https://zenodo.org/badge/447263093.svg)](https://zenodo.org/badge/latestdoi/447263093)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://hub.gke2.mybinder.org/user/hebosse-pidgraph-notebooks-m54ep3xv/lab)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Project-TAPIR/pidgraph-notebooks/main)
 
 A collection of Jupyter notebooks with examples of querying different PID providers like [ORCID](https://orcid.org/), [ROR](https://ror.readme.io/), [Crossref](https://www.crossref.org/) and PID graphs like the [FREYA PID Graph](https://blog.datacite.org/powering-the-pid-graph/), [OpenAlex](https://openalex.org/about) and [OpenAIRE](https://www.openaire.eu/) for connected objects. 
 
